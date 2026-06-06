@@ -1,0 +1,6 @@
+{
+  "name": "Scribble & Soul",
+  "description": "An elegant, cozy, and highly polished personal journal web companion featuring styled handwriting canvases, mood logs, multiple journal book shelving, and fully custom appearance presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
